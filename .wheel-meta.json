@@ -1,0 +1,22 @@
+{
+  "wheel_id": 523,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-105",
+  "project": "retaining-wall-installation-brisbane-questions-to-ask-f2aad1916",
+  "parent_t1_ref": "qldretainingandfencing-152",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane questions to ask",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-105/",
+  "tier": "T2",
+  "writeback_nonce": "6cd6f7b97eeeb3ea",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-installation-brisbane-how-to-choose-c778b808d/",
+      "anchor": "Retaining Wall Installation Brisbane How to Choose: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
